@@ -2,6 +2,7 @@
 A API permite que os usuários realizem operações CRUD nos dados de Empresas e Vagas.
 
 Endpoints
+
 Empresas
 GET /api/Empresas: Recupera uma lista de todas as Empresas.
 GET /api/Empresas/{id}: Recupera uma Empresa específica pelo ID.
